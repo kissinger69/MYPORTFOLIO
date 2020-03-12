@@ -1,4 +1,23 @@
 body{
     background-color:rgb(109, 104, 104);
-
+}
+h1 {
+    font-size: xx-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: normal;
+    color: royalblue;
+    text-align: center;
+}
+.branchingtest {
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
+    color: lightcoral;
+}
+.beilessthrift {
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
+    color: lightcoral;
+    
 }
