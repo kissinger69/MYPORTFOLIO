@@ -38,6 +38,7 @@ h2 {
     color:black;
     font-style: left;
     font-size: x-large;
+    text-decoration: underline;
 }
 .outline {
     font-size: 5mm;
