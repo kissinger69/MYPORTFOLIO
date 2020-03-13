@@ -20,7 +20,7 @@ h1 {
     font-family: 'Times New Roman', Times, serif;
     font-style: oblique;
     color: lightcoral;
-    text-align: start;
+    text-align: center;
 }
 .italics {
     font-style: italic;
@@ -37,4 +37,7 @@ h2 {
     color:black;
     font-style: left;
     font-size: x-large;
+}
+.outline {
+    font-size: 5mm;
 }
