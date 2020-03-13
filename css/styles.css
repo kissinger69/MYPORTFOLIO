@@ -27,8 +27,12 @@ h1 {
 #experience {
     background-color: lightgrey;
   width: 300px;
-  border: 15px solid green;
+  border: 15px solid skyblue;
   padding: 50px;
   margin: 20px;
 }
+h2 {
+    color:black;
+    font-style: left;
+    font-size: x-large;
 }
